@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42593ff0-890a-47c0-bd01-2f7128190e8f" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/hwobsclient-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/Common/CheckoutStream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/Common/ITransform.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/Common/Model.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/Common/ObsTransform.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/Common/SchemaFormatter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/Common/SdkCurlFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/Common/SdkStreamHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/Common/ToArrayInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/Common/V2Transform.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/GetResponseTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/Resource/Constants.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/Resource/OBSConstants.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/Resource/OBSRequestResource.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/Resource/V2Constants.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/Resource/V2RequestResource.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/SendRequestTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/Signature/AbstractSignature.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/Signature/DefaultSignature.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/Signature/SignatureInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/Signature/V4Signature.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObsV3/Log/ObsConfig.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObsV3/Log/ObsLog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObsV3/ObsClient.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObsV3/ObsException.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1pFq6RDUC3YUd5kJD1wH6AKDkhJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.gitosc" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <option name="runUnderTerminal" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42593ff0-890a-47c0-bd01-2f7128190e8f" name="默认的" comment="" />
+      <created>1614789010030</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614789010030</updated>
+      <workItem from="1614789011104" duration="171000" />
+      <workItem from="1614789361352" duration="925000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="577" y="280" width="526" height="548" key="find.popup" timestamp="1614789131023">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="577" y="280" width="526" height="548" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1614789131023" />
+  </component>
+</project>
