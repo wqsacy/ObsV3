@@ -87,9 +87,21 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="470" y="202" key="CommitChangelistDialog2" timestamp="1614790619880">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="470" y="202" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1614790619880" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1614790797984">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1614790797984" />
     <state x="577" y="280" width="526" height="548" key="find.popup" timestamp="1614789131023">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="577" y="280" width="526" height="548" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1614789131023" />
+    <state x="662" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1614790511015">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="662" y="426" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1614790511015" />
   </component>
 </project>
