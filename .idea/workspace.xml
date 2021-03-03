@@ -1,40 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42593ff0-890a-47c0-bd01-2f7128190e8f" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/hwobsclient-master.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/Common/CheckoutStream.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/Common/ITransform.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/Common/Model.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/Common/ObsTransform.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/Common/SchemaFormatter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/Common/SdkCurlFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/Common/SdkStreamHandler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/Common/ToArrayInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/Common/V2Transform.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/GetResponseTrait.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/Resource/Constants.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/Resource/OBSConstants.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/Resource/OBSRequestResource.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/Resource/V2Constants.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/Resource/V2RequestResource.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/SendRequestTrait.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/Signature/AbstractSignature.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/Signature/DefaultSignature.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/Signature/SignatureInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObsV3/Internal/Signature/V4Signature.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObsV3/Log/ObsConfig.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObsV3/Log/ObsLog.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObsV3/ObsClient.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObsV3/ObsException.php" afterDir="false" />
-    </list>
+    <list default="true" id="42593ff0-890a-47c0-bd01-2f7128190e8f" name="默认的" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +12,12 @@
     <execution />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
@@ -76,8 +49,23 @@
       <option name="presentableId" value="Default" />
       <updated>1614789010030</updated>
       <workItem from="1614789011104" duration="171000" />
-      <workItem from="1614789361352" duration="925000" />
+      <workItem from="1614789361352" duration="1218000" />
     </task>
+    <task id="LOCAL-00001" summary="初始化">
+      <created>1614790589628</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614790589628</updated>
+    </task>
+    <task id="LOCAL-00002" summary="初始化">
+      <created>1614790822546</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614790822546</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,6 +73,12 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="初始化" />
+    <option name="LAST_COMMIT_MESSAGE" value="初始化" />
   </component>
   <component name="WindowStateProjectService">
     <state x="470" y="202" key="CommitChangelistDialog2" timestamp="1614790619880">
